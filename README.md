@@ -5,11 +5,11 @@ Aspiring Data Analyst with a solid understanding of data analysis processes, inc
 ## Learnings & Practice
 ### Training Courses: Data Analyst Professional Certifications in Coursera (Pursuing)
 ### Courses
-[^1]: Excel – Preparing Data for Analysis with Microsoft Excel
-[^2]: SQL – Data Analysis using SQL
-[^3]: Python – Data Analysis and Visualization with Python
-[^4]: Power BI – Microsoft Power BI Data Analyst Professional Certificate
-[^5]: Tableau – Tableau Data Analyst Certification Preparation Specification
+  Excel – Preparing Data for Analysis with Microsoft Excel
+  SQL – Data Analysis using SQL
+  Python – Data Analysis and Visualization with Python
+  Power BI – Microsoft Power BI Data Analyst Professional Certificate
+  Tableau – Tableau Data Analyst Certification Preparation Specification
 ### Programming Languages
 [^1]: SQL
 [^2]: Python Basics
