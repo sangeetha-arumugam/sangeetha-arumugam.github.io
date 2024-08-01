@@ -14,10 +14,24 @@ Aspiring Data Analyst with a solid understanding of data analysis processes, inc
 **Power BI** – Microsoft Power BI Data Analyst Professional Certificate
 
 **Tableau** – Tableau Data Analyst Certification Preparation Specification
+
+**ChatGPT** - ChatGPT for Data Analyst
 ### Programming Languages
 SQL
 
 Python Basics
+### Tools
+Excel
+
+SQL Server & MySQL
+
+Jupiter Notebook for Python
+
+Power BI
+
+Tableau
+
+ChatGPT
 ### Portfolio Projects
 **Excel** – Coffee Sales Analysis
 
