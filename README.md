@@ -5,20 +5,20 @@ Aspiring Data Analyst with a solid understanding of data analysis processes, inc
 ## Learnings & Practice
 ### Training Courses: Data Analyst Professional Certifications in Coursera (Pursuing)
 ### Courses
-[^1] Excel – Preparing Data for Analysis with Microsoft Excel
-[^2] SQL – Data Analysis using SQL
-[^3] Python – Data Analysis and Visualization with Python
-[^4] Power BI – Microsoft Power BI Data Analyst Professional Certificate
-[^5] Tableau – Tableau Data Analyst Certification Preparation Specification
+[^1]: Excel – Preparing Data for Analysis with Microsoft Excel
+[^2]: SQL – Data Analysis using SQL
+[^3]: Python – Data Analysis and Visualization with Python
+[^4]: Power BI – Microsoft Power BI Data Analyst Professional Certificate
+[^5]: Tableau – Tableau Data Analyst Certification Preparation Specification
 ### Programming Languages
-[^1] SQL
-[^2] Python Basics
+[^1]: SQL
+[^2]: Python Basics
 ### Portfolio Projects
-[^1] Excel – Coffee Sales Analysis
-[^2] SQL – Food Hunter monthly revenue Analysis
-[^3] Python – Job Posting Analysis
-[^4] Power BI – Plant Co. Sales/Quantity/Gross Profit Performance Analysis of 2024
-[^5] Tableau – London Bike Sharing Analysis
+[^1]: Excel – Coffee Sales Analysis
+[^2]: SQL – Food Hunter monthly revenue Analysis
+[^3]: Python – Job Posting Analysis
+[^4]: Power BI – Plant Co. Sales/Quantity/Gross Profit Performance Analysis of 2024
+[^5]: Tableau – London Bike Sharing Analysis
 ## EXPERIENCE
 ### Position: Technical Lead in Silicon ESpace Infotek Private Limited (Aug’19 – Aug’21)
 ### Work Responsibility:
