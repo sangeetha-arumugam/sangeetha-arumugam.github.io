@@ -1,5 +1,5 @@
 # Sangeetha A
-### Sangeetha.asr@gmail.com
+### sangeetha.asr@gmail.com
 ## CAREER OBJECTIVE
 Aspiring Data Analyst with a solid understanding of data analysis processes, including data collection, cleaning, visualization, and interpretation. Eager to apply analytical skills to extract insights and support data-driven decision-making in a collaborative environment. Seeking an opportunity to grow and contribute to a team while deepening my knowledge of data analytics and business intelligence.
 **Learnings & Practice**
