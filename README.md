@@ -1,7 +1,7 @@
 ## Hey, my name is Sangeetha A👋
 I'm actively seeking opportunities in the data analyst field, eager to apply my skills in data analysis and visualization to help organizations make data-driven decisions.. I have a Bachelor’s degree in B.Tech (Information Technology) and a Master’s degree in M.Tech(IT) - Networking.
 
-## Learnings & Practice
+## My Learnings & Practice
 ### Training Courses: Data Analyst Professional Certifications in Coursera (Pursuing)
 ### Courses
 **Excel** – Preparing Data for Analysis with Microsoft Excel
