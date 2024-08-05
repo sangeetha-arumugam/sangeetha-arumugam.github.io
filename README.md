@@ -1,9 +1,6 @@
-### Hey, my name is Sangeetha 👋
+### Hey, my name is Sangeetha A👋
 I'm actively seeking opportunities in the data analyst field, eager to apply my skills in data analysis and visualization to help organizations make data-driven decisions.. I have a Bachelor’s degree in B.Tech (Information Technology) and a Master’s degree in M.Tech(IT) - Networking.
 
-# RESUME
-
-# Sangeetha A
 ### sangeetha.asr@gmail.com
 ## CAREER OBJECTIVE
 Aspiring Data Analyst with a solid understanding of data analysis processes, including data collection, cleaning, visualization, and interpretation. Eager to apply analytical skills to extract insights and support data-driven decision-making in a collaborative environment. Seeking an opportunity to grow and contribute to a team while deepening my knowledge of data analytics and business intelligence.
