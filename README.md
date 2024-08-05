@@ -1,4 +1,4 @@
-## Hey, my name is Sangeetha A👋
+# Hey, my name is Sangeetha A👋
 I'm actively seeking opportunities in the data analyst field, eager to apply my skills in data analysis and visualization to help organizations make data-driven decisions.. I have a Bachelor’s degree in B.Tech (Information Technology) and a Master’s degree in M.Tech(IT) - Networking.
 
 ## My Learnings & Practice
