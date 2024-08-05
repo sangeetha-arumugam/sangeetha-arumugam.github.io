@@ -1,3 +1,8 @@
+### Hey, my name is Sangeetha 👋
+I'm actively seeking opportunities in the data analyst field, eager to apply my skills in data analysis and visualization to help organizations make data-driven decisions.. I have a Bachelor’s degree in B.Tech (Information Technology) and a Master’s degree in M.Tech(IT) - Networking.
+
+# RESUME
+
 # Sangeetha A
 ### sangeetha.asr@gmail.com
 ## CAREER OBJECTIVE
@@ -17,21 +22,9 @@ Aspiring Data Analyst with a solid understanding of data analysis processes, inc
 
 **ChatGPT** - ChatGPT for Data Analyst
 ### Programming Languages
-SQL
-
-Python Basics
+SQL, and Python Basics
 ### Tools
-Excel
-
-SQL Server & MySQL
-
-Jupiter Notebook for Python
-
-Power BI
-
-Tableau
-
-ChatGPT
+Excel, SQL Server & MySQL, Jupiter Notebook for Python, Power BI, Tableau, and ChatGPT.
 ### Portfolio Projects
 **Excel** – Coffee Sales Analysis
 
@@ -84,7 +77,4 @@ ChatGPT
 •	2013: 12th from Thiruvalluvar Higher Secondary School, State Board with 75.41%
 
 •	2011: 10th from Thiruvalluvar Higher Secondary School, State Board with 82.60%
-## DECLARATION
-I hereby declare that all the details furnished above are true to the best of my knowledge.
 
-(A. SANGEETHA)
